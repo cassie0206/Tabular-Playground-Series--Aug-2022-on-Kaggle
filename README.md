@@ -10,10 +10,10 @@ Please contact us by the following information:
 - TA Jimmy Yang at d08922002@csie.ntu.edu.tw
 - TA Cheng-Ju Ho at ace52751208@gmail.com
 - TA Ji-Jia We at jijiawu.cs@gmail.com
-- TA  Jui-Che Chiang at benchiang.cs07@nctu.edu.tw
+- TA Jui-Che Chiang at benchiang.cs07@nctu.edu.tw
 
 ## Grading Policy
-- 5 homework assignments (60% = 12% x 5), see [HW READEME](https://github.com/NCTU-VRDL/CS_DCP3121/blob/master/HW_README.MD)
+- 5 homework assignments (60% = 12% x 5), see [HW READEME](https://github.com/NCTU-VRDL/CS_CS20024/blob/main/HW_README.md)
 - Final exam (40%)
  
 ## Syllabus

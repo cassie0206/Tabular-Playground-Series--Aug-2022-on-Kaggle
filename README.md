@@ -24,8 +24,8 @@ Please contact us by the following information:
 |   3  |  09/27  | Linear Model for Classification I                                    |                                                            |
 |   4  |  10/04  | Linear Model for Classification II                                   | **HW1 announce**                                           |                
 |   5  |  10/11  | Neural Networks                                                      |                                                            |
-|   6  |  10/18  | Dimensionality Reduction                                             | **HW1 due, HW2 announce**                                  |
-|   7  |  10/25  | Ensemble Method I                                                    |                                                            |
+|   6  |  10/18  | Dimensionality Reduction                                             | **HW2 announce**                                           |
+|   7  |  10/25  | Ensemble Method I                                                    | **HW1 due**                                                |
 |   8  |  11/01  | Ensemble Method II                                                   | **HW2 due, HW3 announce**                                  |
 |   9  |  11/08  | Kernel method I                                                      |                                                            |    
 |   10 |  11/15  | Kernel method II                                                     | **HW3 due, HW4 announce**                                  |                  

@@ -20,10 +20,10 @@ evaluation code is 109550005_Final_inference.ipynb
 
 ## Pre-trained models
 
-pretrained model link is [here](https://drive.google.com/drive/folders/1VDNCCJIT0ooT8VUfk1it76CC5znfcYY1?
+pretrained model link is [here](https://drive.google.com/drive/folders/1VDNCCJIT0ooT8VUfk1it76CC5znfcYY1?usp=sharing)
 
 
 ## Basic Usage
 
-Fisrt downloads the pretrained model from the above link and run both train.ipynb and inference.ipynb on Colab. 
+Fisrt downloads the pretrained model from the above link and run both train.ipynb and inference.ipynb on Colab.<br> 
 The highest private score I gain is 0.59062
